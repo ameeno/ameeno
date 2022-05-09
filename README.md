@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
@@ -71,15 +71,15 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,164 Contributions in the Year 2022
+> 🏆 1,166 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 132 Public Repositories 
+> 📜 133 Public Repositories 
  > 
-> 🔑 138 Private Repositories  
+> 🔑 139 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -135,11 +135,11 @@ Linux                    4 hrs 39 mins       ███████░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-Shell                    13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
-JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8%
+Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   22.39% 
+Shell                    13 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
+JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 ```
 
@@ -149,7 +149,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/05/2022 08:17:19 UTC
+ Last Updated on 09/05/2022 09:17:40 UTC
 <!--END_SECTION:waka-->
 
 

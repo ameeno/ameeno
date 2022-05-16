@@ -65,7 +65,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -149,7 +149,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 07:23:48 UTC
+ Last Updated on 16/05/2022 08:21:47 UTC
 <!--END_SECTION:waka-->
 
 

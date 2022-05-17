@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -71,7 +71,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,171 Contributions in the Year 2022
+> 🏆 1,263 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
@@ -86,20 +86,20 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 ```text
 🌞 Morning    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
 🌆 Daytime    106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
-🌃 Evening    140 commits    █████░░░░░░░░░░░░░░░░░░░░   23.03% 
-🌙 Night      309 commits    ████████████░░░░░░░░░░░░░   50.82%
+🌃 Evening    240 commits    █████████░░░░░░░░░░░░░░░░   39.47% 
+🌙 Night      209 commits    ████████░░░░░░░░░░░░░░░░░   34.38%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.4% 
-Tuesday      54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
+Tuesday      154 commits    ██████░░░░░░░░░░░░░░░░░░░   25.33% 
 Wednesday    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
 Thursday     35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
 Friday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
 Saturday     174 commits    ███████░░░░░░░░░░░░░░░░░░   28.62% 
-Sunday       161 commits    ██████░░░░░░░░░░░░░░░░░░░   26.48%
+Sunday       61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03%
 
 ```
 
@@ -148,7 +148,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/05/2022 15:18:09 UTC
+ Last Updated on 17/05/2022 20:15:26 UTC
 <!--END_SECTION:waka-->
 
 

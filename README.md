@@ -65,22 +65,23 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 1,264 contributions in 2022
-
-📦 1.8 MB used in GitHub's storage 
-
-📜 128 Public Repositories 
-
-🔑 139 Private Repositories  
+> 🏆 1,264 Contributions in the Year 2022
  > 
-**I'm a night 🦉** 
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 128 Public Repositories 
+ > 
+> 🔑 139 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
@@ -89,7 +90,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 🌙 Night      84 commits     █████░░░░░░░░░░░░░░░░░░░░   21.71%
 
 ```
-📅 **I'm most productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
@@ -103,7 +104,7 @@ Sunday       21 commits     █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
@@ -131,7 +132,7 @@ Windows                  21 mins             █░░░░░░░░░░�
 
 ```
 
-**💻 I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   22.06% 
@@ -148,7 +149,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 08:16:58 UTC
+ Last Updated on 12/06/2022 09:21:33 UTC
 <!--END_SECTION:waka-->
 
 

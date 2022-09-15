@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -110,16 +110,16 @@ Sunday       12 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+eod-poc                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -140,7 +140,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 22:17:39 UTC
+ Last Updated on 15/09/2022 23:19:32 UTC
 <!--END_SECTION:waka-->
 
 

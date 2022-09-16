@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-937%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -110,16 +110,21 @@ Sunday       12 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.0%
+Python                   30 mins             ██████████░░░░░░░░░░░░░░░   42.2% 
+Bash                     20 mins             ███████░░░░░░░░░░░░░░░░░░   28.72% 
+JSON                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.68% 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  1 hr 12 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-eod-poc                  0 secs              █████████████████████████   100.0%
+marquez-aws-secrets      1 hr 11 mins        ████████████████████████░   98.29% 
+eod-poc                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
@@ -140,7 +145,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2022 22:16:44 UTC
+ Last Updated on 16/09/2022 23:17:57 UTC
 <!--END_SECTION:waka-->
 
 

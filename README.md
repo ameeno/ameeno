@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-937%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -110,17 +110,20 @@ Sunday       12 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    10 mins             ████████████████████░░░░░   80.29% 
-Terraform                2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.71%
+Bash                     3 hrs 5 mins        ██████████████░░░░░░░░░░░   56.36% 
+YAML                     2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.98% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+VS Code                  5 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tf-multi-region          13 mins             █████████████████████████   100.0%
+eod-poc                  5 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
+Mac                      5 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -141,7 +144,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2022 22:16:20 UTC
+ Last Updated on 27/09/2022 23:17:16 UTC
 <!--END_SECTION:waka-->
 
 

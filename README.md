@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -110,16 +110,22 @@ Sunday       12 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Terraform                0 secs              █████████████████████████   100.0%
+Bash                     1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   32.52% 
+Other                    1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   27.13% 
+Terraform                49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  6 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-terraform-sagemaker      0 secs              █████████████████████████   100.0%
+eod-poc                  5 hrs 59 mins       ████████████████████████░   99.0% 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+tf-multi-region-master   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      6 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -140,7 +146,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 22:18:52 UTC
+ Last Updated on 11/10/2022 23:25:48 UTC
 <!--END_SECTION:waka-->
 
 

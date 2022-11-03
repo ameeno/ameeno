@@ -71,8 +71,6 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,320 Contributions in the Year 2022
- > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -148,7 +146,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno/ameeno/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 00:53:42 UTC
+ Last Updated on 03/11/2022 03:05:15 UTC
 <!--END_SECTION:waka-->
 
 

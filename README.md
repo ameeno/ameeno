@@ -32,6 +32,7 @@
 Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. -->
 
 - 🔭 I’m currently working on [wordpress-to-ghpages](https://github.com/ameeno/wp-test-ghpages)
+- 🌱 This is a personal account, so the stats will not include contributions to my work accounts!
 - 👯 I’m looking to collaborate on [Dell-E7440-Hackintosh](https://github.com/ameeno/Dell-E7440-Hackintosh)
 - 💬 Ask me about anything [here](https://github.com/ameeno/ameeno/issues)
 
@@ -55,7 +56,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 
 
 
-## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview (This is just my Personal Account - My work accounts have more daytime activities!)
+## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview (Excluding work accounts!!)
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:** 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ameeno&show_icons=true&theme=gotham" alt="ameeno" /> 
  

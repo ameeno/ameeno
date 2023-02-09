@@ -32,7 +32,6 @@
 Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. -->
 
 - 🔭 I’m currently working on [wordpress-to-ghpages](https://github.com/ameeno/wp-test-ghpages)
-- 🌱 I’m currently studying for Azure, CKA, CKAD certs
 - 👯 I’m looking to collaborate on [Dell-E7440-Hackintosh](https://github.com/ameeno/Dell-E7440-Hackintosh)
 - 💬 Ask me about anything [here](https://github.com/ameeno/ameeno/issues)
 
@@ -184,13 +183,7 @@ CSS                      3 repos             █░░░░░░░░░░�
  
  - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> My Profile Trophies:**   
  <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ameeno&theme=juicyfresh&row=2&column=3" alt=Ameeno />
- 
- 
-<p align="center"> If you like what I do, maybe consider buying me a coffee </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/ameeno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
- 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 

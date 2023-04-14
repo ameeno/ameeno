@@ -22,6 +22,7 @@ jobs:
           
   update-readme:
     name: Update Readme with Metrics
+    needs: update-gist
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master

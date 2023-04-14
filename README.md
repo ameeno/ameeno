@@ -1,5 +1,5 @@
 
-
+<!--
 
 <h2> Hi there, I'm Ameeno!  👋 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -14,7 +14,7 @@
 [![GitHub Ameeno](https://img.shields.io/github/followers/ameeno?label=follow&style=social)](https://github.com/ameeno)
 ![](https://visitor-badge.glitch.me/badge?page_id=ameeno.ameeno)
 
-
+-->
 <!--
 <a href="https://codesandbox.io/u/ameeno">
   <img align="left" alt="Arun Shah | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/ameeno/ameeno/master/assets/codesandbox.svg" />

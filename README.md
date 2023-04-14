@@ -56,7 +56,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
 
 
 
-## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview (Excluding work accounts!!)
+## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview (Personal Account only!!)
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:** 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ameeno&show_icons=true&theme=gotham" alt="ameeno" /> 
  
@@ -140,11 +140,11 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ```
 
 
-
+<!--
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ameeno/ameeno/main/assets/bar_graph.png)
-
+-->
 
  Last Updated on 01/04/2023 00:57:42 UTC
 <!--END_SECTION:waka-->

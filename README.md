@@ -29,7 +29,7 @@
 <br />
 <br /> 
 
-Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. -->
+Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. 
 
 - 🔭 I’m currently working on [wordpress-to-ghpages](https://github.com/ameeno/wp-test-ghpages)
 - 🌱 This is a personal account, so the stats will not include contributions to my work accounts!
@@ -48,7 +48,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom. --
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-
+-->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Site Reliability Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/Ameeno) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
@@ -152,7 +152,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, for example C++ files/drivers or JAVA files can be very large. <!-- it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* -->
 
-
+<!--
 <a href="#">
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app/api?username=ameeno&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true&custom_title=In%20the%20last%2012%20months&hide=prs" alt="Ameeno's github stats" />
 </a>
@@ -202,3 +202,4 @@ Edit the necessary fields and enjoy!
 Happy Customisation!!!
 --->
 
+   -->

@@ -159,7 +159,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 <!--<a href="#">
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/top-langs/?username=ameeno&layout=compact&theme=material-palenight" />
 </a>-->
-
+<!--
 <a href="https://github.com/ameeno/Dell-E7440-Hackintosh">
   <img align="center" src="https://github-readme-stats-nine-phi-24.vercel.app//api/pin/?username=ameeno&repo=Dell-E7440-Hackintosh&theme=material-palenight" />
 </a>    
@@ -184,7 +184,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 [![Aruns's wakatime stats](https://github-readme-stats-nine-phi-24.vercel.app//api/wakatime?username=ameeno)] -->
 
 
- 
+ <!--
 - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
 <p align=""> <img src="https://github-readme-stats-nine-phi-24.vercel.app/api/top-langs/?username=ameeno&show_icons=true&theme=gotham" alt="Ameeno" /> 
  
@@ -193,7 +193,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-
+--->
 
 <!---
 Hey Visitor , Thanks for downloading my readme.md , 
@@ -201,5 +201,3 @@ If you like my work , please give a shout out 🥺👉👈
 Edit the necessary fields and enjoy!
 Happy Customisation!!!
 --->
-
-   -->

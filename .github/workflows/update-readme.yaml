@@ -16,7 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ef5164cd50f0e30ca002952d3339478d
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
+      - name: Sleep for 60 seconds
+        run: sleep 60s
+        shell: bash
           
   update-readme:
     name: Update Readme with Metrics
@@ -26,5 +28,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          
           SHOW_LINES_OF_CODE : "True"

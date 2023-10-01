@@ -63,7 +63,7 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20million%20lines%20of%20code-blue)
 
@@ -71,26 +71,26 @@ Hi, I'm AShah, a passionate Dev Ops engineer and SRE from the United Kingdom.
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,936 Contributions in the Year 2023
+> 🏆 2,948 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 136 Public Repositories 
+> 📜 139 Public Repositories 
  > 
-> 🔑 135 Private Repositories 
+> 🔑 136 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                3365 commits        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-🌆 Daytime                2121 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                2122 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 🌃 Evening                1800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-🌙 Night                  8542 commits        █████████████░░░░░░░░░░░░   53.97 % 
+🌙 Night                  8542 commits        █████████████░░░░░░░░░░░░   53.96 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   604 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Monday                   605 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 Tuesday                  1475 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Wednesday                794 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 Thursday                 934 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
@@ -119,11 +119,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   30 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Shell                    19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-SCSS                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   30 repos            █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+JavaScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Shell                    20 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+SCSS                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
@@ -133,7 +133,7 @@ SCSS                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ameeno/ameeno/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2023 00:56:58 UTC
+ Last Updated on 01/10/2023 01:00:19 UTC
 <!--END_SECTION:waka-->
 
 

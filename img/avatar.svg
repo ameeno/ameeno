@@ -1,0 +1,26 @@
+<svg fill="none" viewBox="0 0 150 150" width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .avatar-container {
+                    border-radius: 50%;
+                    width: 150px;
+                    height: 150px;
+                    overflow: hidden;
+                    border: 1px solid #ddd;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                .avatar-img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            </style>
+            <div class="avatar-container">
+                <img src="./img/avatar.jpg" alt="Ameeno's Avatar" class="avatar-img" />
+            </div>
+        </div>
+    </foreignObject>
+</svg>

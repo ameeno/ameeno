@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/avatar.jpg" alt="Ameeno's Avatar" style="border-radius: 75px; width: 150px; overflow: hidden;" />
+  <img src="./img/avatar.svg" alt="Ameeno's Avatar" />
 </div>
 
 # Ameeno | Principal Platform Engineer

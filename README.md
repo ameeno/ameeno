@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/avatar.svg" alt="Ameeno's Avatar" />
+  <img src="./avatar.svg" alt="Ameeno's Avatar" />
 </div>
 
 # Ameeno | Principal Platform Engineer

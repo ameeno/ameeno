@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./img/avatar-circular.png" alt="Ameeno's Avatar" />
-</div>
+</div> -->
 
 # Ameeno | Principal Platform Engineer
 

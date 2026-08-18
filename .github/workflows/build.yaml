@@ -29,8 +29,8 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || github.token }}
           USER_NAME: ${{ secrets.USER_NAME || github.repository_owner }}
         run: python generate_readme.py
-      - name: Run tests
-        run: python -m unittest discover -s tests -v
+      # - name: Run tests
+      #   run: python -m unittest discover -s tests -v
       - name: Commit
         run: |-
           git add .

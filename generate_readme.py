@@ -41,7 +41,7 @@ def public_repository_stats(username):
             headers={
                 "Accept": "application/vnd.github+json",
                 "X-GitHub-Api-Version": "2022-11-28",
-                "User-Agent": "Vikbg-profile-readme",
+                "User-Agent": "ameeno-profile-readme",
             },
             timeout=30,
         )

@@ -2,7 +2,7 @@
   <img src="./img/avatar-circular.png" alt="Ameeno's Avatar" />
 </div> -->
 
-# Ameeno | Principal Platform Engineer
+# Ameeno | Software Engineer
 
 ### A strategic architect with the hands-on skills of an SRE and a polyglot software engineer.
 

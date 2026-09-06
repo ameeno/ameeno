@@ -1,7 +1,7 @@
 <div align="center">
 
 # Arun Shah
-### Staff Site Reliability Engineer & Principal Platform Architect
+### Staff Site Reliability Engineer & Platform Architect
 
 [![Website](https://img.shields.io/badge/Website-ashah.uk-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ashah.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shah1)
@@ -26,82 +26,70 @@
 
 ---
 
-## Executive Overview
+I am a Staff SRE and platform engineer based in London. I build infrastructure that stays up, scales predictably, and gives developers clear, reliable paths to production.
 
-Strategic infrastructure architect with the hands-on code discipline of an SRE and a polyglot software engineer. With 12+ years of continuous engineering experience across mission-critical production environments, I operate at the intersection of large-scale distributed systems, Site Reliability Engineering, and internal developer platforms (IDPs).
-
-My mission is to build the "paved road": resilient, automated, self-service infrastructure platforms that empower engineering organisations to ship software with velocity, security, and confidence. I treat infrastructure as software, authoring maintainable, tested systems in Go, Python, Bash, and declarative IaC.
+Over the past 12+ years, I have worked across the stack: production Kubernetes clusters, AWS cloud infrastructure, distributed observability, and the internal tooling that helps engineering teams ship without friction. I write the software I design, mostly in Go, Python, and Bash, alongside declarative IaC in Terraform.
 
 ---
 
-## Core Engineering Pillars
+## What I do
 
-- **Platform Architecture & Immutable Primitives**  
-  Architecting foundational cloud platforms, multi-region Kubernetes topologies (EKS, Bare-Metal), and unified GitOps workflows. Treating infrastructure as a first-class software engineering domain with declarative, version-controlled state and automated policy guardrails.
-
-- **Reliability as a Core Feature**  
-  Engineering systems that are observable, scalable, and self-healing by default. Driving SLO/SLI design, distributed tracing, automated incident mitigation, and strict 99.99% uptime SLAs across distributed multi-tenant workloads.
-
-- **Developer Enablement & Frictionless Toolchains**  
-  Eliminating cognitive load through self-service Internal Developer Platforms (IDPs). Providing turnkey CI/CD pipelines, ephemeral preview environments, and standardized container blueprints that act as a force multiplier for product teams.
-
-- **DevSecOps & Zero-Trust Governance**  
-  Certified Kubernetes Security Specialist (CKS) integrating proactive security into the platform core: service mesh mTLS (Istio/Cilium), runtime threat detection (Falco), automated container vulnerability scans (Trivy), and least-privilege IAM policies.
+- **Cluster infrastructure.** Operating production Kubernetes (EKS and bare-metal) with GitOps workflows through ArgoCD and Flux.
+- **Reliability and SRE.** Maintaining a strict 99.99% uptime SLA across multi-region services. I set up SLO-based alerting, instrument distributed tracing with OpenTelemetry, and automate remediation so on-call rotations stay sane.
+- **Internal platforms.** Building self-service tooling, automated CI/CD pipelines, and container blueprints that let teams deploy independently without waiting on infrastructure tickets.
+- **Runtime security.** Applying CKS practices to production: service mesh mTLS with Istio, container scanning with Trivy, kernel runtime security with Falco, and least-privilege IAM policies.
 
 ---
 
-## Verified Engineering Impact
+## Production track record
 
-- **99.99% Uptime SLA**: Delivered and maintained across high-scale distributed production microservices and multi-cluster Kubernetes environments.
-- **60% Incident Reduction**: Achieved by implementing Istio service mesh mTLS, automated canary deployments, and proactive circuit breaking.
-- **40% MTTR Reduction**: Realized through end-to-end OpenTelemetry instrumentation, SLO-based alert routing, and curated Grafana dashboards.
-- **32% Cloud Cost Reduction**: Delivered via systematic FinOps initiatives, Karpenter intelligent autoscaling, and spot instance orchestration.
+- **99.99% uptime SLA** maintained across high-traffic microservices and multi-cluster Kubernetes environments.
+- **60% incident drop** after introducing Istio service mesh mTLS, circuit breaking, and automated canary rollouts.
+- **40% lower MTTR** through OpenTelemetry tracing, SLO-focused alerts, and structured incident runbooks.
+- **32% cloud cost savings** by right-sizing workloads, introducing Karpenter autoscaling, and tuning spot instances.
 
 ---
 
-## Technical Arsenal
+## Tech stack
 
-| Category | Technologies & Tools |
+| Area | Tools & technologies |
 | :--- | :--- |
-| **Platform Languages** | `Go`, `Python`, `Bash`, `HCL (Terraform)`, `SQL`, `TypeScript` |
-| **Containers & Orchestration** | `Kubernetes (K8s / EKS)`, `Docker`, `Istio Service Mesh`, `Cilium`, `Helm`, `Kustomize` |
-| **Cloud & Infrastructure as Code** | `AWS (EKS, VPC, IAM, RDS, Route53)`, `Azure`, `Terraform / OpenTofu`, `Ansible`, `Spacelift`, `FinOps` |
-| **CI/CD & GitOps** | `ArgoCD`, `Flux CD`, `GitHub Actions`, `Jenkins`, `Tekton` |
-| **Observability & SRE** | `Prometheus`, `Grafana`, `OpenTelemetry (OTel)`, `Thanos`, `Observe`, `Datadog`, `Alertmanager` |
-| **Security & DevSecOps** | `CKS (Certified K8s Security)`, `Falco`, `Trivy`, `Cosign`, `SOPS`, `HashiCorp Vault`, `IAM Zero Trust` |
-| **Databases & Caching** | `PostgreSQL`, `Redis`, `MongoDB`, `Kafka`, `ClickHouse` |
+| **Languages** | Go, Python, Bash, HCL (Terraform), SQL, TypeScript |
+| **Containers & Orchestration** | Kubernetes (EKS, bare-metal), Docker, Istio, Cilium, Helm, Kustomize |
+| **Cloud & Infrastructure** | AWS, Azure, Terraform, OpenTofu, Ansible, Spacelift |
+| **CI/CD & GitOps** | ArgoCD, Flux, GitHub Actions, Jenkins |
+| **Observability** | Prometheus, Grafana, OpenTelemetry, Thanos, Observe, Datadog |
+| **Security** | CKS, Falco, Trivy, Cosign, SOPS, HashiCorp Vault |
+| **Data & Storage** | PostgreSQL, Redis, MongoDB, Kafka, ClickHouse |
 
 ---
 
-## Certifications & Accreditations
+## Certifications and education
 
-| Badge | Credential Title | Issuer | Status |
-| :--- | :--- | :--- | :--- |
-| **CKS** | Certified Kubernetes Security Specialist | CNCF / Linux Foundation | Active Credential |
-| **CKA** | Certified Kubernetes Administrator | CNCF / Linux Foundation | Active Credential |
-| **CKAD** | Certified Kubernetes Application Developer | CNCF / Linux Foundation | Active Credential |
-| **Terraform** | HashiCorp Certified: Terraform Associate 003 | HashiCorp | Active Credential |
-| **Azure MLOps** | Microsoft Certified: DevOps Engineer Expert / MLOps (AI-300) | Microsoft | Active Credential |
-| **AWS SA** | AWS Certified Solutions Architect - Associate | Amazon Web Services | Active Credential |
-| **PgDip / MSc** | MS Software Engineering, Data Structures & Algorithms (2:1 Merit) | City, University of London | Postgraduate Degree |
-| **BSc (Hons)** | Business Management - Technology & Data Focus (2:1 Honours) | Brunel University London | Undergraduate Degree |
-
----
-
-## Lab & Technical Interests
-
-- **Self-Hosted Infrastructure Lab**: Multi-node bare-metal Kubernetes cluster, automated GitOps deployments, dynamic DNS, and hardware telemetry.
-- **Home Automation**: Local-first automation nodes, sensor networks, and containerized IoT brokers.
-- **Open-Source Contributions**: Tooling and contributions across Kubernetes operators, Helm charts, and developer automation.
-- **Interests**: Investing, cycling, travel.
+| Credential | Issuer | Status |
+| :--- | :--- | :--- |
+| **CKS** (Certified Kubernetes Security Specialist) | CNCF / Linux Foundation | Active |
+| **CKA** (Certified Kubernetes Administrator) | CNCF / Linux Foundation | Active |
+| **CKAD** (Certified Kubernetes Application Developer) | CNCF / Linux Foundation | Active |
+| **Terraform Associate 003** | HashiCorp | Active |
+| **Azure MLOps Associate (AI-300)** | Microsoft | Active |
+| **AWS Solutions Architect Associate** | Amazon Web Services | Active |
+| **PgDip Software Engineering** | City, University of London | Merit (2:1) |
+| **BSc (Hons) Business Information Technology** | Brunel University London | Honours (2:1) |
 
 ---
 
-## Connect & Collaborate
+## Lab and interests
 
-<p align="center">
-  <a href="https://www.ashah.uk"><b>ashah.uk</b></a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/shah1"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="mailto:arun@ashah.uk"><b>arun@ashah.uk</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/ameeno"><b>GitHub (@ameeno)</b></a>
-</p>
+When I am not running client or employer infrastructure, I run a self-hosted bare-metal Kubernetes lab at home for testing GitOps rollouts, home automation, and networking setups.
+
+Outside of tech, I spend time on cycling, investing, open-source contributions, and travel.
+
+---
+
+## Get in touch
+
+- Website: [ashah.uk](https://www.ashah.uk)
+- LinkedIn: [linkedin.com/in/shah1](https://linkedin.com/in/shah1)
+- Email: [arun@ashah.uk](mailto:arun@ashah.uk)
+- Location: London, United Kingdom (British Citizen)

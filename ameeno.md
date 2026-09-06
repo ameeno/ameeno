@@ -68,12 +68,12 @@ Over the past 12+ years, I have worked across the stack: production Kubernetes c
 
 | Credential | Issuer | Status |
 | :--- | :--- | :--- |
-| **CKS** (Certified Kubernetes Security Specialist) | CNCF / Linux Foundation | Active |
-| **CKA** (Certified Kubernetes Administrator) | CNCF / Linux Foundation | Active |
-| **CKAD** (Certified Kubernetes Application Developer) | CNCF / Linux Foundation | Active |
-| **Terraform Associate 003** | HashiCorp | Active |
-| **Azure MLOps Associate (AI-300)** | Microsoft | Active |
-| **AWS Solutions Architect Associate** | Amazon Web Services | Active |
+| **CKS** (Certified Kubernetes Security Specialist) | CNCF / Linux Foundation | Awarded |
+| **CKA** (Certified Kubernetes Administrator) | CNCF / Linux Foundation | Awarded |
+| **CKAD** (Certified Kubernetes Application Developer) | CNCF / Linux Foundation | Awarded |
+| **Terraform Associate 003** | HashiCorp | Awarded |
+| **Azure MLOps Associate (AI-300)** | Microsoft | Awarded |
+| **AWS Solutions Architect Associate** | Amazon Web Services | Awarded |
 | **PgDip Software Engineering** | City, University of London | Merit (2:1) |
 | **BSc (Hons) Business Information Technology** | Brunel University London | Honours (2:1) |
 
